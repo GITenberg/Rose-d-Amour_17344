@@ -1,0 +1,31 @@
+_repo: Rose-d-Amour_17344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Assollant, Alfred
+    aliases:
+    - Assollant, A. (Alfred)
+    - Assolant, Alfred
+    birthdate: 1827
+    deathdate: 1886
+    gutenberg_agent_id: '6905'
+    url: http://www.gutenberg.org/2009/agents/6905
+    wikipedia: http://fr.wikipedia.org/wiki/Alfred_Assollant
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2005-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17344'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Rose d'Amour
+url: http://www.gutenberg.org/ebooks/17344
